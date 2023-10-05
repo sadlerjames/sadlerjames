@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm James, a 2nd year student studying Computer Science who is aspiring to be a Software Developer. 
+I'm James and welcome to my profile!
 
 <!--
 **sadlerjames/sadlerjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
